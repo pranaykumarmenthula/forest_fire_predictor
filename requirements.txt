@@ -1,5 +1,5 @@
 #required packages
 scikit-learn==1.2.0
-pickle
+pickle5
 numpy==1.23.5
 pandas==1.5.2
