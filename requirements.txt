@@ -1,6 +1,5 @@
 #required packages
-scikit-learn
-streamlit
+scikit-learn==1.2.0
 pickle
-numpy
-pandas
+numpy==1.23.5
+pandas==1.5.2
